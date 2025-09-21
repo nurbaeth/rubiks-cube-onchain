@@ -4,7 +4,7 @@ Rubik's Cube (On-Chain)
 Features
 🧩 6 faces, 54 stickers, real 3x3 cube structure
  
-🔄 Rotate any face clockwise with a smart contract call
+🔄 Rotate any face clockwise with a smart contract call 
 
 🎲 Scramble the cube with a random seed
 
