@@ -16,7 +16,7 @@ Features
  
 How It Works
 Initialization: Each face starts with a single color.
-
+ 
 Rotation: Rotate faces and manipulate the cube via smart contract functions.
 
 Scramble: Randomize the cube using a pseudo-random seed.
