@@ -2,7 +2,7 @@ Rubik's Cube (On-Chain)
 🎯 Fully On-Chain Rubik's Cube Puzzle Game Built with Solidity 
   
 Features 
-🧩 6 faces, 54 stickers, real 3x3 cube structure
+🧩 6 faces, 54 stickers, real 3x3 cube structure 
  
 🔄 Rotate any face clockwise with a smart contract call 
 
