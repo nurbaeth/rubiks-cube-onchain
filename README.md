@@ -24,7 +24,7 @@ Scramble: Randomize the cube using a pseudo-random seed.
 Solve Check: Automatically validate if the cube is completed. 
    
 Smart Contract Functions
-  
+   
 Function	Description
 rotateFaceClockwise(Face face)	Rotates a selected face clockwise
 scramble(uint256 seed)	Scrambles the cube based on seed
