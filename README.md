@@ -20,7 +20,7 @@ Initialization: Each face starts with a single color.
 Rotation: Rotate faces and manipulate the cube via smart contract functions.
    
 Scramble: Randomize the cube using a pseudo-random seed.
-
+ 
 Solve Check: Automatically validate if the cube is completed. 
  
 Smart Contract Functions
