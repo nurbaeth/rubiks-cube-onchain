@@ -25,7 +25,7 @@ Solve Check: Automatically validate if the cube is completed.
    
 Smart Contract Functions
    
-Function	Description
+Function	Description 
 rotateFaceClockwise(Face face)	Rotates a selected face clockwise
 scramble(uint256 seed)	Scrambles the cube based on seed
 isSolved()	Returns true if the cube is solved
