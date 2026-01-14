@@ -11,7 +11,7 @@ Features
 ✅ Check if the cube is solved
      
 📜 100% on-chain — no off-chain logic or storage
-
+ 
 🛡️ Gas-optimized and simple design
    
 How It Works
