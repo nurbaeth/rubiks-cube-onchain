@@ -6,7 +6,7 @@ Features
        
 🔄 Rotate any face clockwise with a smart contract call    
        
-🎲 Scramble the cube with a random seed 
+🎲 Scramble the cube with a random seed  
 
 ✅ Check if the cube is solved
      
