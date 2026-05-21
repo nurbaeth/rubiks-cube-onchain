@@ -1,5 +1,5 @@
 Rubik's Cube (On-Chain)      
-🎯 Fully On-Chain Rubik's Cube Puzzle Game Built with Solidity     
+🎯 Fully On-Chain Rubik's Cube Puzzle Game Built with Solidity      
      
 Features    
 🧩 6 faces, 54 stickers, real 3x3 cube structure   
